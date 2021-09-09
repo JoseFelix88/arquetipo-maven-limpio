@@ -23,3 +23,6 @@ Contenido de los modulos:
 	8. service-impl: Contiene la implementacion de las interfaces(service-api). Tambien puede tener la definicion de los componentes que convertiran de un model a dto y al contrario.
 		Entre otras funcionalidades que requiera la app.
 		
+
+NOTA: El texto appNameCI debeser reemplazado por el nombre de su app. puede usar el programa recomendado por richi (grepwin), aunque para renombrar las carpetas 
+creo que hay que hacerlo a mano. Tambien tiene un package con marca personal que si gusta puede cambiar.
